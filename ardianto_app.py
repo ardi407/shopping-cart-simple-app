@@ -1,17 +1,3 @@
-"""
-=====================================================================================================
-Graded Challenge 1
-
-Nama        : Ardianto
-Batch       : RM-024
-
-Program ini dibuat untuk membantu user dalam aktivitas perbelanjaan.
->>> User dapat menambahkan barang/item ke dalam keranjang belanja.
->>> User dapat menghapus barang/item dari keranjang belanja.
->>> User dapat melihat barang/item apa saja yang ada dalam keranjang belanja.
->>> User dapat melihat total harga dari semua barang/item di dalam keranjang belanja.
-=====================================================================================================
-"""
 class CartItem: 
     '''
     Class untuk membuat input user sebuah object ChartItem
